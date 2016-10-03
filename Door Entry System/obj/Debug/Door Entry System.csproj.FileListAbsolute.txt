@@ -1,0 +1,50 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Door Entry System\Door Entry System\bin\Debug\Door Entry System.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\documents\visual studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\App.g.cs
+C:\Users\Administrator\documents\visual studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.lref
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\bin\Debug\Door Entry System.exe.config
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\bin\Debug\Door Entry System.exe
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\bin\Debug\Door Entry System.pdb
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System.csprojResolveAssemblyReference.cache
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\MainWindow.g.cs
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\App.g.cs
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.cache
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.lref
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\MainWindow.baml
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System.g.resources
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door_Entry_System.Properties.Resources.resources
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System.csproj.GenerateResource.Cache
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System.exe
+C:\Users\sc\Documents\Visual Studio 2015\Projects\Door Entry System\Door Entry System\obj\Debug\Door Entry System.pdb
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\bin\Debug\Door Entry System.exe.config
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.exe
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.pdb
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\bin\Debug\Door Entry System.exe
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\bin\Debug\Door Entry System.pdb
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.csprojResolveAssemblyReference.cache
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\MainWindow.g.cs
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\App.g.cs
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.cache
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.lref
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\MainWindow.baml
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.g.resources
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door_Entry_System.Properties.Resources.resources
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.csproj.GenerateResource.Cache
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\bin\Debug\Door Entry System.exe.config
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.exe
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.pdb
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\bin\Debug\Door Entry System.exe
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\bin\Debug\Door Entry System.pdb
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.csprojResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\MainWindow.g.cs
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\App.g.cs
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.cache
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System_MarkupCompile.lref
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\MainWindow.baml
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.g.resources
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door_Entry_System.Properties.Resources.resources
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\Door Entry System.csproj.GenerateResource.Cache
+C:\Users\sc\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sam's\Dropbox\Unit 414\Door Entry System\Door Entry System\obj\Debug\GeneratedInternalTypeHelper.g.cs
